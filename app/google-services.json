@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257652601780",
+    "firebase_url": "https://cashmonitor-17efa.firebaseio.com",
+    "project_id": "cashmonitor-17efa",
+    "storage_bucket": "cashmonitor-17efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257652601780:android:762777e0990b8a9d6eb8e1",
+        "android_client_info": {
+          "package_name": "com.example.cashmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257652601780-8k22d9pl17g4d4p7lmn0f2e5krrq51v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cashmonitor",
+            "certificate_hash": "f7207a44939c25aaaad93ed4e99802680aafe6c2"
+          }
+        },
+        {
+          "client_id": "257652601780-j003b0ce6pug5oucle20ofc0is06mk42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNJMfovm6NctTBE71sR274tG7dv8qKsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257652601780-j003b0ce6pug5oucle20ofc0is06mk42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

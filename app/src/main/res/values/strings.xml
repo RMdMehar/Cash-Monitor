@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CashMonitor</string>
+    <string name="txn_label">Transaction Label</string>
+    <string name="txn_amt">Transaction Amount</string>
+    <string name="txn_record">Record Transaction</string>
+    <string name="authentication_error_msg">Authentication Failed With The Code: </string>
+</resources>
